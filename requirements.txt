@@ -1,0 +1,3 @@
+pyvisa>=1.14
+numpy>=1.24
+matplotlib>=3.7
